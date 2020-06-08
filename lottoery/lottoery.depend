@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1456750553 source:c:\users\권성욱\documents\codeblocks\lottoery\function_control.cpp
+	"myclass1.h"
+
+1457257200 c:\users\권성욱\documents\codeblocks\lottoery\myclass1.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<vector>
+	<list>
+	<sstream>
+
+1456033541 source:c:\users\권성욱\documents\codeblocks\lottoery\function_mysort.cpp
+	"myclass1.h"
+
+1457167317 source:c:\users\권성욱\documents\codeblocks\lottoery\function_pantoms.cpp
+	"myclass1.h"
+
+1456691096 source:c:\users\권성욱\documents\codeblocks\lottoery\main.cpp
+	"myclass1.h"
+
+1457181808 source:c:\users\권성욱\documents\codeblocks\lottoery\function_luckyset.cpp
+	"myclass1.h"
+
+1457231239 source:c:\users\권성욱\documents\codeblocks\lottoery\function_myfunction.cpp
+	"myclass1.h"
+
+1456750554 source:h:\개인\lottoery\function_control.cpp
+	"myclass1.h"
+
+1466184612 h:\개인\lottoery\myclass1.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<vector>
+	<list>
+	<sstream>
+
+1457167318 source:h:\개인\lottoery\function_pantoms.cpp
+	"myclass1.h"
+
+1482120862 source:f:\개인\lottoery\linterface.cpp
+	"myclass1.h"
+
+1482121406 f:\개인\lottoery\myclass1.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<vector>
+	<list>
+	<sstream>
+
+1482115312 source:f:\개인\lottoery\lotto.cpp
+	"myclass1.h"
+
